@@ -1,5 +1,6 @@
 # Disenio_sistemas_cltz
-Trabajo de campo de la asignatura Diseño de Sistemas, Com S31
+Trabajo de campo de la asignatura Diseño de Sistemas, Com S31 grupo 15
+
 Integrantes:  
 - Aylen Tastaca  
 - Esteban Francisco Luna  
