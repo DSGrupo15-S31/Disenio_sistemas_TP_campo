@@ -1,4 +1,4 @@
-# Disenio_sistemas_cltz
+# Diseño de Sistemas TP de Campo
 Trabajo de campo de la asignatura Diseño de Sistemas, Com S31 grupo 15
 
 Integrantes:  
